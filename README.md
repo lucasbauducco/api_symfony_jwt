@@ -8,7 +8,7 @@ Este proyecto es una API REST construida con Symfony 7.x y API Platform, lista p
 - Composer
 - Symfony CLI (opcional pero recomendado)
 - Docker y Docker Compose (opcional, si usas contenedores)
-- MySQL o PostgreSQL (según configuración)
+- MySQL o PostgreSQL o sqlite (según configuración)
 - Node.js y Yarn (opcional para frontend o Admin Panel)
 
 ## Instalación
